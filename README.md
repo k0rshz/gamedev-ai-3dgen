@@ -9,7 +9,7 @@
   
 | Этап | Визуализация |  
 |------|--------------|  
-| **1. Исходное изображение** | ![Input Image](img/source.png) |  
+| **1. Исходное изображение** | ![Input Image](img/source_img.png) |  
 | **2. High-poly 3D модель** | ![Hi-poly](img/house_hi.gif) |  
 | **3. Low-poly 3D модель** | ![Low-poly](img/house_low.gif) |  
 | **4. Текстурированная low-poly модель** | ![Textured](img/house_text_low.gif) |  
